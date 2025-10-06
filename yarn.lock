@@ -39,10 +39,10 @@
   resolved "https://registry.yarnpkg.com/@cloudflare/workerd-windows-64/-/workerd-windows-64-1.20250709.0.tgz#9df9c475cc483a0a395b19a471fcc1c167380fb8"
   integrity sha512-j1AyO8V/62Q23EJplWgzBlRCqo/diXgox58AbDqSqgyzCBAlvUzXQRDBab/FPNG/erRqt7I1zQhahrBhrM0uLA==
 
-"@cloudflare/workers-types@^4.20250726.0":
-  version "4.20250726.0"
-  resolved "https://registry.yarnpkg.com/@cloudflare/workers-types/-/workers-types-4.20250726.0.tgz#2bcd78bc5e26aa222d4a8f8cf9edb8f5f3427bb3"
-  integrity sha512-NtM1yVBKJFX4LgSoZkVU0EDhWWvSb1vt6REO+uMYZRgx1HAfQz9GDN6bBB0B+fm2ZIxzt6FzlDbmrXpGJ2M/4Q==
+"@cloudflare/workers-types@^4.20250803.0":
+  version "4.20251004.0"
+  resolved "https://registry.yarnpkg.com/@cloudflare/workers-types/-/workers-types-4.20251004.0.tgz#77a0620f98fe488241ce4bc6571064e3cf771508"
+  integrity sha512-FkTBHEyOBwphbW4SLQ2XLCgNntD2wz0v1Si7NwJeN0JAPW/39/w6zhsKy3rsh+203tuSfBgsoP34+Os4RaySOw==
 
 "@cspotcode/source-map-support@0.8.1":
   version "0.8.1"
@@ -998,10 +998,10 @@ has-flag@^4.0.0:
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
 
-hono@^4.8.9:
-  version "4.8.9"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-4.8.9.tgz#70626fa38d0ad69698e3573d1f84db97dae76b72"
-  integrity sha512-ERIxkXMRhUxGV7nS/Af52+j2KL60B1eg+k6cPtgzrGughS+espS9KQ7QO0SMnevtmRlBfAcN0mf1jKtO6j/doA==
+hono@^4.9.10:
+  version "4.9.10"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-4.9.10.tgz#27ac828dd5ddaf3947e1a207dad9f079d3cf1b12"
+  integrity sha512-AlI15ijFyKTXR7eHo7QK7OR4RoKIedZvBuRjO8iy4zrxvlY5oFCdiRG/V/lFJHCNXJ0k72ATgnyzx8Yqa5arug==
 
 ignore@^5.2.0:
   version "5.3.2"
