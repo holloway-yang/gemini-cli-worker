@@ -39,10 +39,10 @@
   resolved "https://registry.yarnpkg.com/@cloudflare/workerd-windows-64/-/workerd-windows-64-1.20250709.0.tgz#9df9c475cc483a0a395b19a471fcc1c167380fb8"
   integrity sha512-j1AyO8V/62Q23EJplWgzBlRCqo/diXgox58AbDqSqgyzCBAlvUzXQRDBab/FPNG/erRqt7I1zQhahrBhrM0uLA==
 
-"@cloudflare/workers-types@^4.20250726.0":
-  version "4.20250726.0"
-  resolved "https://registry.yarnpkg.com/@cloudflare/workers-types/-/workers-types-4.20250726.0.tgz#2bcd78bc5e26aa222d4a8f8cf9edb8f5f3427bb3"
-  integrity sha512-NtM1yVBKJFX4LgSoZkVU0EDhWWvSb1vt6REO+uMYZRgx1HAfQz9GDN6bBB0B+fm2ZIxzt6FzlDbmrXpGJ2M/4Q==
+"@cloudflare/workers-types@^4.20250803.0":
+  version "4.20251004.0"
+  resolved "https://registry.yarnpkg.com/@cloudflare/workers-types/-/workers-types-4.20251004.0.tgz#77a0620f98fe488241ce4bc6571064e3cf771508"
+  integrity sha512-FkTBHEyOBwphbW4SLQ2XLCgNntD2wz0v1Si7NwJeN0JAPW/39/w6zhsKy3rsh+203tuSfBgsoP34+Os4RaySOw==
 
 "@cspotcode/source-map-support@0.8.1":
   version "0.8.1"
@@ -243,10 +243,10 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-9.30.1.tgz#ebe9dd52a38345784c486300175a28c6013c088d"
   integrity sha512-zXhuECFlyep42KZUhWjfvsmXGX39W8K8LFb8AWXM9gSV9dQB+MrJGLKvW6Zw0Ggnbpw0VHTtrhFXYe3Gym18jg==
 
-"@eslint/js@^9.31.0":
-  version "9.31.0"
-  resolved "https://registry.yarnpkg.com/@eslint/js/-/js-9.31.0.tgz#adb1f39953d8c475c4384b67b67541b0d7206ed8"
-  integrity sha512-LOm5OVt7D4qiKCqoiPbA7LWmI+tbw1VbTUowBcUMgQSuM6poJufkFkYDcQpo5KfgD39TnNySV26QjOh7VFpSyw==
+"@eslint/js@^9.37.0":
+  version "9.37.0"
+  resolved "https://registry.yarnpkg.com/@eslint/js/-/js-9.37.0.tgz#0cfd5aa763fe5d1ee60bedf84cd14f54bcf9e21b"
+  integrity sha512-jaS+NJ+hximswBG6pjNX0uEJZkrT0zwpVi3BA3vX22aFGjJjmgSTSmPpZCRKmoBL5VY/M6p0xsSJx7rk7sy5gg==
 
 "@eslint/object-schema@^2.1.6":
   version "2.1.6"
